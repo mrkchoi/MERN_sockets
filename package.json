@@ -1,11 +1,11 @@
 {
-  "name": "MERN-boilerplate",
+  "name": "MERN-sockets",
   "version": "1.0.0",
-  "description": "MERN stack project boilerplate",
-  "author": "Eugene Cheung",
+  "description": "MERN stack sockets.io integration",
+  "author": "Kenny Choi",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arkon/MERN-boilerplate.git"
+    "url": "https://github.com/mrkchoi/MERN_sockets.git"
   },
   "license": "MIT",
   "private": true,
